@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-13T04:34:51.461Z</updated>
+  <updated>2022-11-13T05:11:04.723Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,28 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page</title>
-    <link href="http://example.com/2022/11/13/page/"/>
-    <id>http://example.com/2022/11/13/page/</id>
-    <published>2022-11-13T04:34:51.000Z</published>
-    <updated>2022-11-13T04:34:51.461Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>📕关于异位同因论</title>
     <link href="http://example.com/2022/11/12/%F0%9F%93%95%E5%85%B3%E4%BA%8E%E5%BC%82%E4%BD%8D%E5%90%8C%E5%9B%A0%E8%AE%BA/"/>
     <id>http://example.com/2022/11/12/%F0%9F%93%95%E5%85%B3%E4%BA%8E%E5%BC%82%E4%BD%8D%E5%90%8C%E5%9B%A0%E8%AE%BA/</id>
     <published>2022-11-12T13:18:12.000Z</published>
-    <updated>2022-11-12T13:18:12.294Z</updated>
+    <updated>2022-11-13T05:11:04.723Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于异位同因论"><a href="#关于异位同因论" class="headerlink" title="关于异位同因论"></a>关于异位同因论</h1><hr><p><a href="">详情：</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于异位同因论&quot;&gt;&lt;a href=&quot;#关于异位同因论&quot; class=&quot;headerlink&quot; title=&quot;关于异位同因论&quot;&gt;&lt;/a&gt;关于异位同因论&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;详情：&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
     
     
     
     
+    <category term="Math" scheme="http://example.com/tags/Math/"/>
+    
+    <category term="Ovalfog" scheme="http://example.com/tags/Ovalfog/"/>
     
   </entry>
   
