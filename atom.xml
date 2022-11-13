@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-12T13:18:12.294Z</updated>
+  <updated>2022-11-13T04:34:51.461Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://example.com/2022/11/13/page/"/>
+    <id>http://example.com/2022/11/13/page/</id>
+    <published>2022-11-13T04:34:51.000Z</published>
+    <updated>2022-11-13T04:34:51.461Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>📕关于异位同因论</title>
